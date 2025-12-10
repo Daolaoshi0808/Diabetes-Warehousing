@@ -1,4 +1,8 @@
+#  **Dataset**
 
+Data Source: [Diabetes 130-US Hospitals (1999–2008)](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
+
+This is a public Diabetes Dataset from UCI Machine Learning Repository. It has records from 130 US Hospitals from 1999 to 2008. 
 
 #  **Tableau Dashboard**
 
