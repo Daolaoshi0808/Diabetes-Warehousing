@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: diabetes_src
+    database: FIVETRAN_DATABASE
+    schema: GORILLA_FINAL_
+    tables:
+      - name: DIABETIC_DATA
